@@ -17,5 +17,5 @@ simple interest = p * t * r
 #
 #
 ## Copyright:
-2022 XYZ, Inc.
+2023 XYZ, Inc.
 
